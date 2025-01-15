@@ -1,5 +1,5 @@
 import { MdOutlineArrowBack, MdOutlineEmojiFlags } from 'react-icons/md'
-import BreakingBvideo from '../../assets/imgs/BreakingBvideo.mp4'
+import BreakingBvideo from '../../assets/imgs/avatar.jpg'
 import BreakingBimg from '../../assets/imgs/Breakingb.webp'
 import Spinner from '../../assets/imgs/loadSpinner.png'
 import { useNavigate } from 'react-router-dom'
